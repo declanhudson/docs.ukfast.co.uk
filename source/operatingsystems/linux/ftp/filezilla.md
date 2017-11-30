@@ -1,4 +1,4 @@
-This is a page about FileZilla
+This is a page about FileZilla.
 
 ```eval_rst
   :meta:
